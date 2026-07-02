@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I am Isaac Martins
 
-<!--
-**IsaacJMFdev/isaacjmfdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🚀 Full Stack developer in progress, focused on building strong foundations in software development, problem solving and computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently studying and developing projects with HTML, CSS and PHP, while improving knowledge in databases and algorithms.
+
+📚 Interested in fullstack development, scalable applications and continuous learning through practice and real-world projects.
+
+---
+
+### 🤖 Languages and Tools
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
+<br/>
+<br/>
+
+### 📊 Statistics
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=IsaacJMFdev)](https://github.com/stats-organization/github-stats-extended)
