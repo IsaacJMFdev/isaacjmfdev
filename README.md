@@ -10,7 +10,7 @@
 
 ---
 
-### 🤖 Languages and Tools
+### 🤖 Technologies and Tools
 
 <img 
     align="left" 
